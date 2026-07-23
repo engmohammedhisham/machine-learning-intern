@@ -1,29 +1,45 @@
-# 🗺️ Portfolio Sitemap & AI Companion Setup
+# 🗺️ Week 01: Portfolio Sitemap & AI Companion Pressure-Test
 
-## 1. Portfolio Sitemap Design
-The portfolio layout follows a minimal, zero-friction structure designed to lead the target persona from initial claim directly to proof and action.
+## 1. Portfolio Sitemap & Architecture
+The portfolio uses a streamlined, 4-section flow designed to convert hiring managers from entry to action with zero friction.
 
-![Portfolio Sitemap Diagram](images/Untitled Diagram.png)
+![Portfolio Sitemap Diagram](notebooks/images/Untitled%20Diagram.png)
 
 ---
 
-## 2. Claude Project & Tutor Persona
+## 2. Claude Project Configuration
 * **Project Name:** AI Portfolio & Content Ops Companion
-* **Persona Configured:** Critical AI Tutor assisting throughout the 8-week build.
-* **Custom Instructions:** Loaded with core proof statement (Data Science + Content Decay ML prediction) and style guidelines.
+* **Persona:** Dedicated Critical Tutor for the 8-Week Build
+* **Custom Instructions:** Contains core proof statement (Data Science & Content Decay ML Prediction) with direct, no-fluff feedback guidelines.
 
 ---
 
-## 3. Sitemap Pressure-Test Results
+## 3. Pressure-Test Results & Planned Refinements
 
-### 💬 Prompt Executed:
-Evaluated the 4-section sitemap against the target action (converting visits to hiring manager interview requests).
+### 💬 Pressure-Test Output (Claude Tutor Feedback)
 
-### 💡 Key Findings & Planned Change:
-* **Identification:** Waiting until Section 4 for contact creates friction if a reviewer is convinced immediately by the Case Study metrics in Section 2.
-* **Actionable Change:** I will add a direct **"Contact / Schedule Sync" button inline right inside the Case Study section** (under the key model metrics), so hiring managers can take immediate action without needing to scroll down to the final footer.
+> **1. Cut / Merge:**
+> "About Me" doesn't need to be a standalone stop. Fold it into 2-3 lines under the Hero or alongside the Case Study to remove navigation friction between "interested" and "convinced."
+>
+> **2. Friction Check:**
+> - Make Contact persistent (e.g., sticky CTA in the header / floating email & LinkedIn buttons) rather than buried at the bottom.
+> - Relabel "Interactive demo outline" to **"Methodology / How it works"** to prevent expectation mismatch.
+>
+> **3. Sharpest Single Fix for Claim:**
+> Replace abstract category claims in the Hero with concrete results. Frame it directly with measurable impact:
+> *"I built an ML model that predicted content decay 6 weeks before traffic dropped — cutting wasted refresh spend by X%."*
 
 ---
 
-## 📸 Verification
-![Sitemap Diagram](images/Untitled Diagram.png)
+### 🛠️ Key Refinements Implemented
+Based on the pressure-test feedback, I am applying **three specific changes**:
+
+1. **Hero Headline Upgrade:** Moving concrete metrics (82.8% Recall / 6-week decay prediction) straight into the Hero Section for immediate impact.
+2. **Simplified Flow:** Merging "About Me" as a 2-line summary inside the Hero/Case Study instead of a separate block.
+3. **Persistent CTA & Relabeling:** Adding a sticky header Contact button and renaming the demo section to **"Methodology & Code Walkthrough"**.
+
+---
+
+## 📸 Verification Screenshots
+![Sitemap Sketch](notebooks/images/Untitled%20Diagram.png)
+![Claude Project Setup](images/claude_project.png)
