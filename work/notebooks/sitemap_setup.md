@@ -42,6 +42,5 @@ Based on the pressure-test feedback, I am applying **three specific changes**:
 ---
 
 ## 📸 Verification Screenshots
-<img src="notebooks/images/Untitled%20Diagram.png" alt="Sitemap Sketch" width="100%" />
+<img width="350" height="522" alt="Untitled Diagram" src="https://github.com/user-attachments/assets/c67d0b02-d2c0-4460-856d-5af781fcd374" />
 
-![Claude Project Setup](images/claude_project.png)
