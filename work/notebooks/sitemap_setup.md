@@ -3,7 +3,7 @@
 ## 1. Portfolio Sitemap Design
 The portfolio layout follows a minimal, zero-friction structure designed to lead the target persona from initial claim directly to proof and action.
 
-![Portfolio Sitemap Diagram](images/sitemap.png)
+![Portfolio Sitemap Diagram](work/notebooks/images/Untitled Diagram.png)
 
 ---
 
@@ -26,4 +26,4 @@ Evaluated the 4-section sitemap against the target action (converting visits to 
 ---
 
 ## 📸 Verification
-![Sitemap Diagram](images/sitemap.png)
+![Sitemap Diagram](work/notebooks/images/Untitled Diagram.png)
