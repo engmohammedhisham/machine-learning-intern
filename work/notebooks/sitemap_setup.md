@@ -3,7 +3,7 @@
 ## 1. Portfolio Sitemap & Architecture
 The portfolio uses a streamlined, 4-section flow designed to convert hiring managers from entry to action with zero friction.
 
-![Portfolio Sitemap Diagram](notebooks/images/Untitled%20Diagram.png)
+<img src="notebooks/images/Untitled%20Diagram.png" alt="Portfolio Sitemap Diagram" width="100%" />
 
 ---
 
@@ -41,5 +41,6 @@ Based on the pressure-test feedback, I am applying **three specific changes**:
 ---
 
 ## 📸 Verification Screenshots
-![Sitemap Sketch](notebooks/images/Untitled%20Diagram.png)
+<img src="notebooks/images/Untitled%20Diagram.png" alt="Sitemap Sketch" width="100%" />
+
 ![Claude Project Setup](images/claude_project.png)
